@@ -11,3 +11,6 @@ def divide(x,y):
 a = 10
 
 b = 0
+p
+q
+c=10
